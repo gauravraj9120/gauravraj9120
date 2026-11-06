@@ -1,6 +1,3 @@
-Here’s an aesthetic, programmer-style GitHub profile README you can use. Replace the bracketed placeholders with your details, then add it to a **public repository named `gauravraj9120`**.
-
-````markdown name=README.md
 <h1 align="center">Hey, I'm Gaurav 👋</h1>
 
 <p align="center">
@@ -17,14 +14,14 @@ Here’s an aesthetic, programmer-style GitHub profile README you can use. Repla
 
 ### 👨‍💻 About me
 
-- 🌱 Currently learning **[what you're learning]**
-- 🛠️ Building projects with **[your favorite tools or languages]**
-- 💡 Interested in **[areas you enjoy, like web development or AI]**
-- 📫 Reach me: **[your email or social link]**
+- 🌱 Currently learning **[Python Full Stack Development]**
+- 🛠️ Building projects with **[Pandas, Numpy, Flask, Threading , tkintter]**
+- 💡 Interested in **[Python Development ,Cyber Security Analst  or AI]**
+- 📫 Reach me: **[gmail - gauravrajput9120@gmail.com, Insta - itz_rajput_gaurav912]**
 
 ### 🧰 Tools I use
 
-`[Language]` · `[Framework]` · `[Database]` · `[Tools]`
+`[Python, Java]` · `[Framework- Flask, Spring boot, flutter, react, angular, ASP .NET]` · `[Database - sqllite3, MongoDB]` · `[Tools - VS code, git, git hub, jet brain, Docker ]`
 
 ### 📊 GitHub stats
 
@@ -38,6 +35,3 @@ Here’s an aesthetic, programmer-style GitHub profile README you can use. Repla
 <p align="center">
   <i>“Keep learning. Keep building.”</i>
 </p>
-````
-
-To activate it, create a repository named **`gauravraj9120`**, make it public, and add this as its `README.md`.
